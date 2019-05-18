@@ -1,0 +1,29 @@
+Unnamed: 0,Auftragskonto,Buchungstag,Valutadatum,Buchungstext,Verwendungszweck,Beguenstigter/Zahlungspflichtiger,Kontonummer,BLZ,Betrag,Waehrung,label
+193,,04.04.2016,04.04.2016,Geldanlage,Ccbade31Xxx De71310108339900123456 Sparen End-To-End-Ref.: Notprovided Dauerauftrag Dauerauftrag,Michael Koffer,DE69790800529736000780,DRESDEFF790,-300.00,EUR,finance
+60,89990210.0,04.04.2016,04.04.2016,Lastschrift (Einzugsermächtigung),Tk Maxx Nuernberg//Nuernberg/De 201 6-04-02T13:52:08 Folgenr.001 Verfal Ld.2020-12,Tk Maxx Nürnberg,DE38300800000245238803,DRESDEFF300,"-89,99",EUR,finance
+187,,03.05.2016,03.05.2016,Geldanlage,Ccbade31Xxx De71310108339900123456 Sparen End-To-End-Ref.: Notprovided Dauerauftrag Dauerauftrag,Michael Koffer,DE69790800529736000780,DRESDEFF790,-300.00,EUR,finance
+89,89990210.0,09.03.2016,09.03.2016,Lastschrift (Einzugsermächtigung),04032016 350193 Horst Dietrich 8324 2 Reit Im Winkl Ref,Hobex Ag,DE91740201000008119083,RZOODE77,"-67,8",EUR,finance
+70,89990210.0,30.03.2016,30.03.2016,Gehalt/Rente,Gehalt Adorsys GmbH & Co. KG,Adorsys GmbH & Co. KG,DE74760320009460000022,TEAMDE71,"1792,73",EUR,income
+21,89990201.0,30.05.2016,30.05.2016,Lohn / Gehalt,Gehalt Adorsys GmbH & Co. KG End-To-End-Ref.: Notprovided Kundenreferenz: Nsct1603300013660000000000000000001 Gutschrift,Adorsys GmbH & Co. KG,7807800780,25190001,2000.00,EUR,income
+98,89990210.0,01.03.2016,01.03.2016,Lastschrift (Einzugsermächtigung),"Visa62185021Amazon.De 7,54Eur0,0000000000 26.02. 0,00 10355969",Amazon Eu,922904916,76030080,"-7,54",EUR,leisure
+74,89990210.0,23.03.2016,23.03.2016,Lastschrift (Einzugsermächtigung),"Visa62185021800-279-6620 535,00Eur0,0000000000 21.03. 0,00 10355999",Amazon De Marketplace,922904916,76030080,-535,EUR,leisure
+137,89990210.0,02.02.2016,02.02.2016,Lastschrift (Einzugsermächtigung),Esso Deutschland Gmbh//Nuernberg/De 2016-02-01T06:57:22 Folgenr.001 Ve Rfalld.2020-12,Esso Deutschland Gmbh,DE25200800000930401000,DRESDEFF200,"-40,6",EUR,leisure
+112,89990210.0,24.02.2016,24.02.2016,Lastschrift (Einzugsermächtigung),"Visa62185021Amazon.De 7,99Eur0,0000000000 22.02. 0,00 10355969",Amazon Eu,922904916,76030080,"-7,99",EUR,leisure
+132,89990210.0,04.02.2016,04.02.2016,Lastschrift (Einzugsermächtigung),Abonnement Kd-Nr. 5104489.,Vag,DE89760501010001011500,SSKNDE77,"-51,2",EUR,leisure
+59,89990210.0,05.04.2016,05.04.2016,Lastschrift (Einzugsermächtigung),"Visa62185021Senningerberg 24,30Eur0,0000000000 01.04. 0,00 10355499",Foodora,922904916,76030080,"-24,3",EUR,leisure
+162,89990210.0,15.01.2016,15.01.2016,Lastschrift (Einzugsermächtigung),"Visa6218501306060876 30,00Eur0,0000000000 13.01. 30,00 10316011",Bankhaus August Lenz Atm,922904916,76030080,-30,EUR,leisure
+139,89990210.0,02.02.2016,02.02.2016,Lastschrift (Einzugsermächtigung),303-0084632-5339566 Amazon .Mktplce Eu-De 2410573888643087,Amazon Payments Europe S.C.A.,DE87300308801908262006,TUBDDEDD,"-17,93",EUR,leisure
+135,89990210.0,03.02.2016,03.02.2016,Lastschrift (Einzugsermächtigung),303-0580631-8794708 Amazon .Mktplce Eu-De 2411354884929964,Amazon Payments Europe S.C.A.,DE87300308801908262006,TUBDDEDD,"-20,85",EUR,leisure
+123,89990210.0,15.02.2016,15.02.2016,Lastschrift (Einzugsermächtigung),Abschlag Gas 02/16 Vk: 220200215414,E Wie Einfach Gmbh,DE30370700600177252400,DEUTDEDK,-46,EUR,living
+84,89990210.0,15.03.2016,15.03.2016,Lastschrift (Einzugsermächtigung),Elv66021447 12.03 17.30 Me11,H+M 798 Sagt Vielen Dank,DE62200400000244890003,COBADEFF,"-82,96",EUR,living
+124,89990210.0,15.02.2016,15.02.2016,Lastschrift (Einzugsermächtigung),Rundfunk 01.2016 - 03.2016 Beitrags Nr. 574704817 Aenderungen Ganz Bequ Em: Www.Rundfunkbeitrag.De,Ard Zdf Dradio Beitragsservice,DE28700500000002024100,BYLADEMM,"-52,5",EUR,living
+19,89990201.0,01.06.2016,01.06.2016,Bargeld,"01.06/16.34Uhr Nuernberg All Eur 70,00 Geb.Eur 0,00 Einzahlung/Auszahlung Ga Nr55508568 Blz76010085 9",Bargeld,9999900780,25190001,-70.00,EUR,private
+67,89990210.0,31.03.2016,31.03.2016,Euro-Überweisung,Bp1821187056/3814,Billpay Gmbh,DE87100500006000036211,BELADEBEXXX,"-158,9",EUR,private
+153,89990210.0,25.01.2016,25.01.2016,Euro-Überweisung,Euro-Überweisung,Anna Fein,DE51760300800843688500,CSDBDE71XXX,50,EUR,private
+186,,04.05.2016,04.05.2016,Lebensmittel / Getraenke,2831 Edeka Neubauer Nuernb.//Nuernb 2016-05-04T17:54:45 Kfn 9 Vj 1612 Lastschrift,Kartenzahlung,9736000780,25190001,-73.21,EUR,standardOfLiving
+25,89990201.0,09.05.2016,09.05.2016,Lebensmittel / Getraenke,2831 Edeka Neubauer Nuernb.//Nuernb 2016-05-09T17:54:45 Kfn 9 Vj 1612 Lastschrift,Kartenzahlung,9736000780,25190001,-19.99,EUR,standardOfLiving
+7,89990201.0,05.07.2016,05.07.2016,Drogerie,Dm Fil.1137 H:65128//Nuernberg/De 2 016-04-19T17:03:43Folgenr.001 Verf Alld.2020 -12,Dm Drogeriemarkt Sagt Danke,7755566780,25190001,-28.85,EUR,standardOfLiving
+14,89990201.0,08.06.2016,08.06.2016,Drogerie,Dm Fil.1137 H:65128//Nuernberg/De 2 016-02-16T17:03:43Folgenr.001 Verf Alld.2020 -12,Dm Drogeriemarkt Sagt Danke,7755566780,25190001,-19.99,EUR,standardOfLiving
+30,89990201.0,19.04.2016,19.04.2016,Drogerie,Dm Fil.1137 H:65128//Nuernberg/De 2 016-04-19T17:03:43Folgenr.001 Verf Alld.2020 -12,Dm Drogeriemarkt Sagt Danke,7755566780,25190001,-28.85,EUR,standardOfLiving
+175,,03.06.2016,03.06.2016,Lebensmittel / Getraenke,2831 Edeka Neubauer Nuernb.//Nuernb 2016-05-04T17:54:45 Kfn 9 Vj 1612 Lastschrift,Kartenzahlung,9736000780,25190001,-73.21,EUR,standardOfLiving
+143,89990210.0,01.02.2016,01.02.2016,Dauerauftrag,Haushalt,"Anna Fein, Lucas Fein",DE60760300800230188170,CSDBDE71XXX,-100,EUR,standardOfLiving
