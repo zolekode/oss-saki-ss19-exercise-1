@@ -1,2 +1,2 @@
 # oss-saki-ss19-exercise-1
-FAU Erlangen-Nürnberg adorsys SAKI transaction categorization challenge
+FAU Erlangen-Nürnberg SAKI - adorsys transaction categorization challenge
